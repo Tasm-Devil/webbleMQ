@@ -1,7 +1,7 @@
 # webbleMQ
 ## Web Bluetooth relay for devices supporting Nordic UART service, Puck.js in particular
 
-[Application is running here](https://olliephillips.github.io/webbleMQ/)
+[Application is running here](https://tasm-devil.github.io/webbleMQ/)
 
 My experiments with Web Bluetooth. Designed primarily for use with Puck.js. Currently supports `Relay`, `Console` and two `MQTT` modes.
 
