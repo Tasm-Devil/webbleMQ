@@ -1,5 +1,5 @@
 # webbleMQ
-## Web Bluetooth relay for devices supporting Nordic UART service, Puck.js in particular
+## Web Bluetooth relay for devices supporting Nordic UART service, Circuitpython in particular
 
 [Application is running here](https://tasm-devil.github.io/webbleMQ/)
 
