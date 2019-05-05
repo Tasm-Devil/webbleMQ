@@ -18,7 +18,7 @@ This is the perfect [tutorial](https://www.digitalocean.com/community/tutorials/
 
 ## Roadmap
 - Write a Circuitpython-module for MQTT over BLE.
-- switch to new Javascript client because mosquitto.js is [deprecated](https://mosquitto.org/blog/2013/05/mosquitto-javascript-client-deprecated/).
+- switch to [Eclipse Paho Javascript client](https://www.eclipse.org/paho/clients/js/) because mosquitto.js is [deprecated](https://mosquitto.org/blog/2013/05/mosquitto-javascript-client-deprecated/).
 
 ## Contributions
 Are welcome!
