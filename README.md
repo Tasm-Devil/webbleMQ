@@ -27,6 +27,9 @@ MQTT "announced" - Each device has own publish and subscribe topic. Device adver
 
 Note both MQTT modes uses a public MQTT broker - iot.eclipse.org. In unannounced mode, though hard to guess, the data is still public. In announced mode, devices actively advertise their presence. You can fork the repo and change the broker to one of your choosing, but authentication is not supported.
 
+## Mosquitto setup
+This is the perfect [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04-quickstart) how to setup mosquitto with wss and certbot (*Let's Encrypt*)
+
 ## Roadmap
 - HTTP Proxy. Have Pucks listen for intructions over HTTP, may assume HTTP resource controlled so a CORS policy can be set. This way can do it all on the client - no server.
 - MQTT subscribe to each other.
