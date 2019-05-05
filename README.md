@@ -29,7 +29,7 @@ Note both MQTT modes uses a public MQTT broker - iot.eclipse.org. In unannounced
 
 ## Enable web-bluetooth in google chrome
 
-Read [this article](https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md) for getting infos on how to enable web-bluetooth in google chrome or simply click [here](chrome://flags/#enable-experimental-web-platform-features) and choose *Enabled*.
+Read [this article](https://github.com/WebBluetoothCG/web-bluetooth/blob/master/implementation-status.md) for getting infos on how to enable web-bluetooth in google chrome or simply open `chrome://flags/#enable-experimental-web-platform-features` and choose *Enabled*.
 
 ## Mosquitto setup
 This is the perfect [tutorial](https://www.digitalocean.com/community/tutorials/how-to-install-and-secure-the-mosquitto-mqtt-messaging-broker-on-ubuntu-18-04-quickstart) how to setup mosquitto with wss and certbot (*Let's Encrypt*)
