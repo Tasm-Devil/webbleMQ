@@ -1,4 +1,7 @@
-# webbleMQ
+# webbleMQ 
+
+This is a minifyed version of Ollie Phillips sources. Just what I needed to start my own project [BLE2MQTT](https://github.com/Tasm-Devil/BLE2MQTT) which borrows massively from his codebase.
+
 ## Web Bluetooth relay for devices supporting Nordic UART service, Circuitpython in particular
 
 [Application is running here](https://tasm-devil.github.io/webbleMQ/)
